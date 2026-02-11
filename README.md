@@ -93,3 +93,5 @@ The frpc binary is licensed under the [Apache License 2.0](https://github.com/fa
 **Author / 作者:** 白河愁 (Kryso)
 
 **Homepage / ホームページ / 主页 / 主頁:** [http://www.ff18.com](http://www.ff18.com)
+
+**GitHub:** [https://github.com/krysof/synology-frpc](https://github.com/krysof/synology-frpc)
